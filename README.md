@@ -1,4 +1,4 @@
-# Python Code Merger / Объединение Python-файловс кодом в один
+# Python Code Merger / Объединение нескольких файлов .py в один TXT-документ.
 
 [English](#english) | [Русский](#русский)
 
