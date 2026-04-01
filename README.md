@@ -1,4 +1,4 @@
-# Python Code Merger / Объединение Python-кода
+# Python Code Merger / Объединение Python-файлов с кодом в один
 
 [English](#english) | [Русский](#русский)
 
@@ -21,10 +21,11 @@
 ### Installation & Usage
 
 #### Run as Python script (requires Python 3.6+):
+
 ```bash
 python pymerger.py
 
-#### reate standalone .exe (no Python required):
+#### Create standalone .exe (no Python required):
 pip install pyinstaller
 pyinstaller --onefile --windowed pymerger.py
 
