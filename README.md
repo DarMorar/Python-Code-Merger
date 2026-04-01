@@ -46,6 +46,7 @@ datetime - timestamps
 **License**
 MIT
 
+## Русский
 
 **Объединение Python-файлов в один TXT для загрузки в AI-чаты**
 
